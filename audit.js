@@ -1,9 +1,11 @@
-require('dotenv').config(); // Load environment variables from .env file
+require('dotenv').config();
 const puppeteer = require('puppeteer-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const AxePuppeteer = require('@axe-core/puppeteer').AxePuppeteer;
 const fs = require('fs');
+const path = require('path');
 const archiver = require('archiver');
+const devices = require('./devices'); // Import devices from devices.js
 puppeteer.use(StealthPlugin());
 
 // Load environment variables
@@ -15,23 +17,16 @@ if (!TARGET_URL) {
   process.exit(1);
 }
 
-// Define devices for emulation
-const relevantDevices = [
-  { name: 'iPhone 12', viewport: { width: 390, height: 844, deviceScaleFactor: 3, isMobile: true, hasTouch: true }, userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1' },
-  { name: 'Pixel 5', viewport: { width: 393, height: 851, deviceScaleFactor: 3, isMobile: true, hasTouch: true }, userAgent: 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36' },
-  { name: 'iPad Pro', viewport: { width: 1024, height: 1366, deviceScaleFactor: 2, isMobile: true, hasTouch: true }, userAgent: 'Mozilla/5.0 (iPad; CPU OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/604.1' },
-  { name: 'Desktop 1920x1080', viewport: { width: 1920, height: 1080, isMobile: false }, userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36' },
-  { name: 'Desktop 1366x768', viewport: { width: 1366, height: 768, isMobile: false }, userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36' }
-];
-
-// Helper function to format date and time
 function getFormattedDateTime() {
   const now = new Date();
   return `${now.toISOString().split('T')[0]}_${now.toTimeString().split(' ')[0].replace(/:/g, '-')}`;
 }
 
-// Create a dynamically named folder
-const outputFolder = `${BUSINESS_NAME}_${getFormattedDateTime()}`;
+const reportsDir = 'reports';
+if (!fs.existsSync(reportsDir)) {
+  fs.mkdirSync(reportsDir);
+}
+const outputFolder = `${reportsDir}/${BUSINESS_NAME}_${getFormattedDateTime()}`;
 fs.mkdirSync(outputFolder, { recursive: true });
 
 async function runMultiDeviceAudit() {
@@ -43,9 +38,8 @@ async function runMultiDeviceAudit() {
 
   let report = `Comprehensive Audit Report for ${TARGET_URL}\nGenerated: ${getFormattedDateTime()}\n\n`;
 
-  for (const device of relevantDevices) {
+  for (const device of devices) {
     const page = await browser.newPage();
-
     await page.setViewport(device.viewport);
     await page.setUserAgent(device.userAgent);
 
@@ -65,16 +59,35 @@ async function runMultiDeviceAudit() {
           h1: document.querySelector('h1')?.innerText || '',
           h2: [...document.querySelectorAll('h2')].map(el => el.innerText),
           h3: [...document.querySelectorAll('h3')].map(el => el.innerText),
-          images: [...document.querySelectorAll('img')].map(img => ({
-            src: img.src,
-            alt: img.alt,
-          })),
+          images: [...document.querySelectorAll('img')].map(img => {
+            const rect = img.getBoundingClientRect();
+            return {
+              src: img.src,
+              alt: img.alt,
+              width: rect.width,
+              height: rect.height
+            };
+          }),
           links: [...document.querySelectorAll('a')].map(link => ({
             href: link.href,
             text: link.innerText,
           })),
         };
       });
+
+      // Additional step to get image file sizes
+      const imageDataWithSize = await Promise.all(
+        seoData.images.map(async (img) => {
+          try {
+            const response = await page.goto(img.src);
+            const buffer = await response.buffer();
+            img.fileSize = buffer.length;
+          } catch (e) {
+            img.fileSize = 'N/A';
+          }
+          return img;
+        })
+      );
 
       const accessibilityResults = await new AxePuppeteer(page).analyze();
 
@@ -92,7 +105,7 @@ async function runMultiDeviceAudit() {
         H1 Tag: ${seoData.h1}
         H2 Tags: ${seoData.h2.join(', ')}
         H3 Tags: ${seoData.h3.join(', ')}
-        Images: ${seoData.images.map(img => `SRC: ${img.src}, ALT: ${img.alt}`).join('\n')}
+        Images: ${imageDataWithSize.map(img => `SRC: ${img.src}, ALT: ${img.alt}, Width: ${img.width}px, Height: ${img.height}px, File Size: ${img.fileSize} bytes`).join('\n')}
         Links: ${seoData.links.map(link => `HREF: ${link.href}, Text: ${link.text}`).join('\n')}
         ---- Accessibility Violations ----
         Total Violations: ${accessibilityResults.violations.length}
@@ -104,7 +117,7 @@ async function runMultiDeviceAudit() {
         `).join('\n')}
         ===============================
       `;
-      
+
     } catch (error) {
       console.error(`Error on device ${device.name}:`, error);
       report += `Error on device ${device.name}: ${error.message}\n`;
@@ -116,7 +129,6 @@ async function runMultiDeviceAudit() {
   const reportFilename = `${outputFolder}/audit_report_${getFormattedDateTime()}.txt`;
   fs.writeFileSync(reportFilename, report);
 
-  // Zip the folder
   const zipFilename = `${outputFolder}.zip`;
   const output = fs.createWriteStream(zipFilename);
   const archive = archiver('zip', { zlib: { level: 9 } });
