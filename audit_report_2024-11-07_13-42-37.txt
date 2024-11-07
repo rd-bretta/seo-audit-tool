@@ -1,0 +1,1257 @@
+Comprehensive Audit Report for https://bretta.io
+Generated: 2024-11-07_13-42-18
+
+
+        ===============================
+        Device: iPhone 12
+        User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+        Viewport: 390x844
+        Load Time: 1606ms
+        Screenshot: screenshot_iPhone_12_2024-11-07_13-42-20.png
+        ---- SEO Metadata ----
+        Title: Bretta Etc Ltd. Google Ad Management & Licensed Templates
+        Description: 
+        Keywords: 
+        H1 Tag: 
+        H2 Tags: Bretta Gets Results Online
+        H3 Tags: Intro, Base, Pro
+        Images: SRC: https://bretta.io/assets/images/mugshot.svg, ALT: bretta etc ltd logo
+SRC: https://bretta.io/assets/images/mugshot.svg, ALT: home-banner-icon
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbox-img.png&w=1080&q=75, ALT: box-img
+SRC: https://bretta.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapplication-example.62c42e24.png&w=640&q=75, ALT: project-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-2.png&w=640&q=75, ALT: project-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-3.png&w=640&q=75, ALT: project-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-4.png&w=640&q=75, ALT: project-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-5.png&w=640&q=75, ALT: project-5
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-6.png&w=640&q=75, ALT: project-6
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fform-img.png&w=1080&q=75, ALT: form-image
+SRC: https://bretta.io/_next/static/media/mugshot.ddfd0547.svg, ALT: bretta etc logo in the bottom footer
+        Links: HREF: https://bretta.io/, Text: 
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: tel:+15195214260, Text: HOW DOES HE DO IT?
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Weekly Google Ads Management
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Web Development
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Digital Marketing
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Professional Network
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/application, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Executive Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Operating Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Financial Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Marketing Officer
+HREF: https://bretta.io/#, Text: $39.99/month
+HREF: https://bretta.io/#, Text: $14.99/month
+HREF: https://bretta.io/#, Text: $499
+HREF: https://bretta.io/#, Text: View All
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: https://bretta.io/terms-conditions, Text: Terms & Conditions
+HREF: https://bretta.io/privacy-policy, Text: Privacy Policy
+HREF: https://bretta.io/faq, Text: FAQs
+HREF: https://bretta.io/blog, Text: Blog
+HREF: tel:+(617) 254-2333, Text: +1 (519) 521-4260
+HREF: https://bretta.io/, Text: Bretta
+HREF: tel:+15195214260, Text: Need help? Call us!
+        ---- Accessibility Violations ----
+        Total Violations: 9
+        
+          Description: Ensure buttons have discernible text
+          Impact: critical
+          Nodes: 4
+          Elements: - HTML: <button type="button" class="p-4"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-6 w-6 text-black"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg></button>
+- HTML: <button type="button" class="flex h-10 w-10 items-center justify-center rounded-full bg-primary lg:hidden">
+- HTML: <button type="button" class="testimonial-button-prev static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+- HTML: <button type="button" class="testimonial-button-next static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+        
+
+          Description: Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds
+          Impact: serious
+          Nodes: 23
+          Elements: - HTML: <a class="active" href="/">Home</a>
+- HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+- HTML: <button type="button" class="btn bg-gray px-12 capitalize text-white">Send Message</button>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/">Home</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/landing-page-experiences">Landing Page Experiences</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/google-ads-management">Google Ads Management</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/about-us">Who Is Bretta Etc?</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/terms-conditions">Terms &amp; Conditions</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/privacy-policy">Privacy Policy</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/faq">FAQs</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/blog">Blog</a>
+- HTML: <li>London, Ontario, Canada</li>
+- HTML: <li>Brisbane, Queensland, Australia</li>
+- HTML: <a href="tel:+(617) 254-2333" class="inline-block transition hover:scale-110 hover:text-secondary">+1 (519) 521-4260</a>
+        
+
+          Description: Ensure the order of headings is semantically correct
+          Impact: moderate
+          Nodes: 10
+          Elements: - HTML: <h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6>
+- HTML: <h6>Here are some animations to show my experience</h6>
+- HTML: <h6>A little more goodness to get you over the line</h6>
+- HTML: <h6>Not all websites are created equally</h6>
+- HTML: <h6 class="mb-1 text-black ">Application Landing page</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Executive Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Operating Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Financial Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Marketing Officer</h6>
+- HTML: <h6>Testimonial</h6>
+        
+
+          Description: Ensure every HTML document has a lang attribute
+          Impact: serious
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure every form element has a label
+          Impact: critical
+          Nodes: 5
+          Elements: - HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+        
+
+          Description: Ensure the document has a main landmark
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure links have discernible text
+          Impact: serious
+          Nodes: 10
+          Elements: - HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/application"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+        
+
+          Description: Ensure that the page, or at least one of its frames contains a level-one heading
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure all page content is contained by landmarks
+          Impact: moderate
+          Nodes: 72
+          Elements: - HTML: <div class="overflow-hidden bg-black pt-[82px] sm:-mx-[250px] sm:rounded-b-[50%] lg:-mx-[150px] lg:pt-[106px]">
+- HTML: <div class="heading text-center"><h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6><h4>Here's a basic breakdown</h4></div>
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="https://buy.stripe.com/fZe5ln224amc0WQ7sy">Weekly Google Ads Management</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Web Development</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Digital Marketing</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Professional Network</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <div class="heading text-center"><h6>Here are some animations to show my experience</h6><h4>A few psuedo made up statistical breakdowns</h4></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>7+</span></h4><span class="font-bold text-black transition ">Years In The Game</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>100+</span></h4><span class="font-bold text-black transition dark:text-gray ">Accounts Managed</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>1,800+</span> </h4><span class="font-bold text-black transition dark:text-gray ">Ad Campaigns Launched</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>Only 10 </span></h4><span class="font-bold text-black transition ">Clients At A Time</span></div>
+- HTML: <div class="heading mb-16 text-center lg:text-left"><h6>A little more goodness to get you over the line</h6><h4 class="leading-normal !text-white lg:!leading-[50px]">We bring solutions to make life easier for our customers.</h4></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">Thinking Informs Action</h4><p class="font-semibold">Continual feedback &amp; analyses allow me to effectively &amp; efficiently realign our approach to be ready to succeed at a moments notice.</p></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">24/7 Personal Support</h4><p class="font-semibold">I'm here, ready, when you're not. Quick, attentive &amp; responsive, just like your website should be. Only one call away as your digital marketing manager and educator.</p></div>
+- HTML: <div class="top-1/2 right-5 mx-auto mt-10 md:w-[45%] lg:mt-0 xl:absolute xl:-translate-y-1/2">
+- HTML: <div class="container">
+- HTML: <section class="bg-[url(/assets/images/team-bg.png)] bg-cover bg-center bg-no-repeat py-14  lg:py-[100px]">
+- HTML: <div class="heading text-center"><h6>Pricing Plan</h6><h4>Choose Affordable Prices</h4></div>
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black ">Intro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="relative mb-8"><h3 class="text-[22px] font-black text-black ">Base</h3><div class="group-hover:white/10 absolute top-1/2 right-0 -translate-y-1/2 rounded-xl bg-secondary/10 py-2 px-4 text-xs font-black text-secondary group-hover:bg-white group-hover:text-black">MOST POPULAR</div></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black group-hover:text-white ">Pro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="heading text-center ltr:lg:text-left rtl:lg:text-right "><h6>Testimonial</h6><h4 class="!text-white">Feedback from our clients</h4></div>
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <a class="text-sm font-extrabold text-white transition hover:text-secondary dark:hover:text-secondary" href="/#">View All</a>
+- HTML: <div class="heading text-center lg:mb-0 lg:w-1/3 lg:pr-10 lg:text-left">
+- HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+        
+        ===============================
+      
+        ===============================
+        Device: Pixel 5
+        User-Agent: Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+        Viewport: 393x851
+        Load Time: 939ms
+        Screenshot: screenshot_Pixel_5_2024-11-07_13-42-25.png
+        ---- SEO Metadata ----
+        Title: Bretta Etc Ltd. Google Ad Management & Licensed Templates
+        Description: 
+        Keywords: 
+        H1 Tag: 
+        H2 Tags: Bretta Gets Results Online
+        H3 Tags: Intro, Base, Pro
+        Images: SRC: https://bretta.io/assets/images/mugshot.svg, ALT: bretta etc ltd logo
+SRC: https://bretta.io/assets/images/mugshot.svg, ALT: home-banner-icon
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbox-img.png&w=1080&q=75, ALT: box-img
+SRC: https://bretta.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapplication-example.62c42e24.png&w=640&q=75, ALT: project-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-2.png&w=640&q=75, ALT: project-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-3.png&w=640&q=75, ALT: project-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-4.png&w=640&q=75, ALT: project-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-5.png&w=640&q=75, ALT: project-5
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-6.png&w=640&q=75, ALT: project-6
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fform-img.png&w=1080&q=75, ALT: form-image
+SRC: https://bretta.io/_next/static/media/mugshot.ddfd0547.svg, ALT: bretta etc logo in the bottom footer
+        Links: HREF: https://bretta.io/, Text: 
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: tel:+15195214260, Text: HOW DOES HE DO IT?
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Weekly Google Ads Management
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Web Development
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Digital Marketing
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Professional Network
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/application, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Executive Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Operating Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Financial Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Marketing Officer
+HREF: https://bretta.io/#, Text: $39.99/month
+HREF: https://bretta.io/#, Text: $14.99/month
+HREF: https://bretta.io/#, Text: $499
+HREF: https://bretta.io/#, Text: View All
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: https://bretta.io/terms-conditions, Text: Terms & Conditions
+HREF: https://bretta.io/privacy-policy, Text: Privacy Policy
+HREF: https://bretta.io/faq, Text: FAQs
+HREF: https://bretta.io/blog, Text: Blog
+HREF: tel:+(617) 254-2333, Text: +1 (519) 521-4260
+HREF: https://bretta.io/, Text: Bretta
+HREF: tel:+15195214260, Text: Need help? Call us!
+        ---- Accessibility Violations ----
+        Total Violations: 9
+        
+          Description: Ensure buttons have discernible text
+          Impact: critical
+          Nodes: 4
+          Elements: - HTML: <button type="button" class="p-4"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-6 w-6 text-black"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg></button>
+- HTML: <button type="button" class="flex h-10 w-10 items-center justify-center rounded-full bg-primary lg:hidden">
+- HTML: <button type="button" class="testimonial-button-prev static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+- HTML: <button type="button" class="testimonial-button-next static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+        
+
+          Description: Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds
+          Impact: serious
+          Nodes: 23
+          Elements: - HTML: <a class="active" href="/">Home</a>
+- HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+- HTML: <button type="button" class="btn bg-gray px-12 capitalize text-white">Send Message</button>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/">Home</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/landing-page-experiences">Landing Page Experiences</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/google-ads-management">Google Ads Management</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/about-us">Who Is Bretta Etc?</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/terms-conditions">Terms &amp; Conditions</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/privacy-policy">Privacy Policy</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/faq">FAQs</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/blog">Blog</a>
+- HTML: <li>London, Ontario, Canada</li>
+- HTML: <li>Brisbane, Queensland, Australia</li>
+- HTML: <a href="tel:+(617) 254-2333" class="inline-block transition hover:scale-110 hover:text-secondary">+1 (519) 521-4260</a>
+        
+
+          Description: Ensure the order of headings is semantically correct
+          Impact: moderate
+          Nodes: 10
+          Elements: - HTML: <h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6>
+- HTML: <h6>Here are some animations to show my experience</h6>
+- HTML: <h6>A little more goodness to get you over the line</h6>
+- HTML: <h6>Not all websites are created equally</h6>
+- HTML: <h6 class="mb-1 text-black ">Application Landing page</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Executive Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Operating Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Financial Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Marketing Officer</h6>
+- HTML: <h6>Testimonial</h6>
+        
+
+          Description: Ensure every HTML document has a lang attribute
+          Impact: serious
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure every form element has a label
+          Impact: critical
+          Nodes: 5
+          Elements: - HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+        
+
+          Description: Ensure the document has a main landmark
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure links have discernible text
+          Impact: serious
+          Nodes: 10
+          Elements: - HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/application"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+        
+
+          Description: Ensure that the page, or at least one of its frames contains a level-one heading
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure all page content is contained by landmarks
+          Impact: moderate
+          Nodes: 72
+          Elements: - HTML: <div class="overflow-hidden bg-black pt-[82px] sm:-mx-[250px] sm:rounded-b-[50%] lg:-mx-[150px] lg:pt-[106px]">
+- HTML: <div class="heading text-center"><h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6><h4>Here's a basic breakdown</h4></div>
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="https://buy.stripe.com/fZe5ln224amc0WQ7sy">Weekly Google Ads Management</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Web Development</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Digital Marketing</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Professional Network</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <div class="heading text-center"><h6>Here are some animations to show my experience</h6><h4>A few psuedo made up statistical breakdowns</h4></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>7+</span></h4><span class="font-bold text-black transition ">Years In The Game</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>100+</span></h4><span class="font-bold text-black transition dark:text-gray ">Accounts Managed</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>1,800+</span> </h4><span class="font-bold text-black transition dark:text-gray ">Ad Campaigns Launched</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>Only 10 </span></h4><span class="font-bold text-black transition ">Clients At A Time</span></div>
+- HTML: <div class="heading mb-16 text-center lg:text-left"><h6>A little more goodness to get you over the line</h6><h4 class="leading-normal !text-white lg:!leading-[50px]">We bring solutions to make life easier for our customers.</h4></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">Thinking Informs Action</h4><p class="font-semibold">Continual feedback &amp; analyses allow me to effectively &amp; efficiently realign our approach to be ready to succeed at a moments notice.</p></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">24/7 Personal Support</h4><p class="font-semibold">I'm here, ready, when you're not. Quick, attentive &amp; responsive, just like your website should be. Only one call away as your digital marketing manager and educator.</p></div>
+- HTML: <div class="top-1/2 right-5 mx-auto mt-10 md:w-[45%] lg:mt-0 xl:absolute xl:-translate-y-1/2">
+- HTML: <div class="container">
+- HTML: <section class="bg-[url(/assets/images/team-bg.png)] bg-cover bg-center bg-no-repeat py-14  lg:py-[100px]">
+- HTML: <div class="heading text-center"><h6>Pricing Plan</h6><h4>Choose Affordable Prices</h4></div>
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black ">Intro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="relative mb-8"><h3 class="text-[22px] font-black text-black ">Base</h3><div class="group-hover:white/10 absolute top-1/2 right-0 -translate-y-1/2 rounded-xl bg-secondary/10 py-2 px-4 text-xs font-black text-secondary group-hover:bg-white group-hover:text-black">MOST POPULAR</div></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black group-hover:text-white ">Pro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="heading text-center ltr:lg:text-left rtl:lg:text-right "><h6>Testimonial</h6><h4 class="!text-white">Feedback from our clients</h4></div>
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <a class="text-sm font-extrabold text-white transition hover:text-secondary dark:hover:text-secondary" href="/#">View All</a>
+- HTML: <div class="heading text-center lg:mb-0 lg:w-1/3 lg:pr-10 lg:text-left">
+- HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+        
+        ===============================
+      
+        ===============================
+        Device: iPad Pro
+        User-Agent: Mozilla/5.0 (iPad; CPU OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/604.1
+        Viewport: 1024x1366
+        Load Time: 996ms
+        Screenshot: screenshot_iPad_Pro_2024-11-07_13-42-29.png
+        ---- SEO Metadata ----
+        Title: Bretta Etc Ltd. Google Ad Management & Licensed Templates
+        Description: 
+        Keywords: 
+        H1 Tag: 
+        H2 Tags: Bretta Gets Results Online
+        H3 Tags: Intro, Base, Pro
+        Images: SRC: https://bretta.io/assets/images/mugshot.svg, ALT: bretta etc ltd logo
+SRC: https://bretta.io/assets/images/mugshot.svg, ALT: home-banner-icon
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbox-img.png&w=1080&q=75, ALT: box-img
+SRC: https://bretta.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapplication-example.62c42e24.png&w=640&q=75, ALT: project-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-2.png&w=640&q=75, ALT: project-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-3.png&w=640&q=75, ALT: project-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-4.png&w=640&q=75, ALT: project-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-5.png&w=640&q=75, ALT: project-5
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-6.png&w=640&q=75, ALT: project-6
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fform-img.png&w=1080&q=75, ALT: form-image
+SRC: https://bretta.io/_next/static/media/mugshot.ddfd0547.svg, ALT: bretta etc logo in the bottom footer
+        Links: HREF: https://bretta.io/, Text: 
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: tel:+15195214260, Text: HOW DOES HE DO IT?
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Weekly Google Ads Management
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Web Development
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Digital Marketing
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Professional Network
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/application, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Executive Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Operating Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Financial Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Marketing Officer
+HREF: https://bretta.io/#, Text: $39.99/month
+HREF: https://bretta.io/#, Text: $14.99/month
+HREF: https://bretta.io/#, Text: $499
+HREF: https://bretta.io/#, Text: View All
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: https://bretta.io/terms-conditions, Text: Terms & Conditions
+HREF: https://bretta.io/privacy-policy, Text: Privacy Policy
+HREF: https://bretta.io/faq, Text: FAQs
+HREF: https://bretta.io/blog, Text: Blog
+HREF: tel:+(617) 254-2333, Text: +1 (519) 521-4260
+HREF: https://bretta.io/, Text: Bretta
+HREF: tel:+15195214260, Text: Need help? Call us!
+        ---- Accessibility Violations ----
+        Total Violations: 9
+        
+          Description: Ensure buttons have discernible text
+          Impact: critical
+          Nodes: 2
+          Elements: - HTML: <button type="button" class="testimonial-button-prev static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+- HTML: <button type="button" class="testimonial-button-next static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+        
+
+          Description: Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds
+          Impact: serious
+          Nodes: 24
+          Elements: - HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+- HTML: <button type="button" class="btn bg-gray px-12 capitalize text-white">Send Message</button>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/">Home</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/landing-page-experiences">Landing Page Experiences</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/google-ads-management">Google Ads Management</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/about-us">Who Is Bretta Etc?</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/terms-conditions">Terms &amp; Conditions</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/privacy-policy">Privacy Policy</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/faq">FAQs</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/blog">Blog</a>
+- HTML: <li>London, Ontario, Canada</li>
+- HTML: <li>Brisbane, Queensland, Australia</li>
+- HTML: <a href="tel:+(617) 254-2333" class="inline-block transition hover:scale-110 hover:text-secondary">+1 (519) 521-4260</a>
+        
+
+          Description: Ensure the order of headings is semantically correct
+          Impact: moderate
+          Nodes: 10
+          Elements: - HTML: <h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6>
+- HTML: <h6>Here are some animations to show my experience</h6>
+- HTML: <h6>A little more goodness to get you over the line</h6>
+- HTML: <h6>Not all websites are created equally</h6>
+- HTML: <h6 class="mb-1 text-black ">Application Landing page</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Executive Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Operating Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Financial Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Marketing Officer</h6>
+- HTML: <h6>Testimonial</h6>
+        
+
+          Description: Ensure every HTML document has a lang attribute
+          Impact: serious
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure every form element has a label
+          Impact: critical
+          Nodes: 5
+          Elements: - HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+        
+
+          Description: Ensure the document has a main landmark
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure links have discernible text
+          Impact: serious
+          Nodes: 10
+          Elements: - HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/application"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+        
+
+          Description: Ensure that the page, or at least one of its frames contains a level-one heading
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure all page content is contained by landmarks
+          Impact: moderate
+          Nodes: 72
+          Elements: - HTML: <div class="overflow-hidden bg-black pt-[82px] sm:-mx-[250px] sm:rounded-b-[50%] lg:-mx-[150px] lg:pt-[106px]">
+- HTML: <div class="heading text-center"><h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6><h4>Here's a basic breakdown</h4></div>
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="https://buy.stripe.com/fZe5ln224amc0WQ7sy">Weekly Google Ads Management</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Web Development</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Digital Marketing</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Professional Network</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <div class="heading text-center"><h6>Here are some animations to show my experience</h6><h4>A few psuedo made up statistical breakdowns</h4></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>7+</span></h4><span class="font-bold text-black transition ">Years In The Game</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>100+</span></h4><span class="font-bold text-black transition dark:text-gray ">Accounts Managed</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>1,800+</span> </h4><span class="font-bold text-black transition dark:text-gray ">Ad Campaigns Launched</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>Only 10 </span></h4><span class="font-bold text-black transition ">Clients At A Time</span></div>
+- HTML: <div class="heading mb-16 text-center lg:text-left"><h6>A little more goodness to get you over the line</h6><h4 class="leading-normal !text-white lg:!leading-[50px]">We bring solutions to make life easier for our customers.</h4></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">Thinking Informs Action</h4><p class="font-semibold">Continual feedback &amp; analyses allow me to effectively &amp; efficiently realign our approach to be ready to succeed at a moments notice.</p></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">24/7 Personal Support</h4><p class="font-semibold">I'm here, ready, when you're not. Quick, attentive &amp; responsive, just like your website should be. Only one call away as your digital marketing manager and educator.</p></div>
+- HTML: <div class="top-1/2 right-5 mx-auto mt-10 md:w-[45%] lg:mt-0 xl:absolute xl:-translate-y-1/2">
+- HTML: <div class="container">
+- HTML: <section class="bg-[url(/assets/images/team-bg.png)] bg-cover bg-center bg-no-repeat py-14  lg:py-[100px]">
+- HTML: <div class="heading text-center"><h6>Pricing Plan</h6><h4>Choose Affordable Prices</h4></div>
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black ">Intro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="relative mb-8"><h3 class="text-[22px] font-black text-black ">Base</h3><div class="group-hover:white/10 absolute top-1/2 right-0 -translate-y-1/2 rounded-xl bg-secondary/10 py-2 px-4 text-xs font-black text-secondary group-hover:bg-white group-hover:text-black">MOST POPULAR</div></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black group-hover:text-white ">Pro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="heading text-center ltr:lg:text-left rtl:lg:text-right "><h6>Testimonial</h6><h4 class="!text-white">Feedback from our clients</h4></div>
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <a class="text-sm font-extrabold text-white transition hover:text-secondary dark:hover:text-secondary" href="/#">View All</a>
+- HTML: <div class="heading text-center lg:mb-0 lg:w-1/3 lg:pr-10 lg:text-left">
+- HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+        
+        ===============================
+      
+        ===============================
+        Device: Desktop 1920x1080
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+        Viewport: 1920x1080
+        Load Time: 936ms
+        Screenshot: screenshot_Desktop_1920x1080_2024-11-07_13-42-33.png
+        ---- SEO Metadata ----
+        Title: Bretta Etc Ltd. Google Ad Management & Licensed Templates
+        Description: 
+        Keywords: 
+        H1 Tag: 
+        H2 Tags: Bretta Gets Results Online
+        H3 Tags: Intro, Base, Pro
+        Images: SRC: https://bretta.io/assets/images/mugshot.svg, ALT: bretta etc ltd logo
+SRC: https://bretta.io/assets/images/mugshot.svg, ALT: home-banner-icon
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbox-img.png&w=1080&q=75, ALT: box-img
+SRC: https://bretta.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapplication-example.62c42e24.png&w=640&q=75, ALT: project-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-2.png&w=640&q=75, ALT: project-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-3.png&w=640&q=75, ALT: project-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-4.png&w=640&q=75, ALT: project-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-5.png&w=640&q=75, ALT: project-5
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-6.png&w=640&q=75, ALT: project-6
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fform-img.png&w=1080&q=75, ALT: form-image
+SRC: https://bretta.io/_next/static/media/mugshot.ddfd0547.svg, ALT: bretta etc logo in the bottom footer
+        Links: HREF: https://bretta.io/, Text: 
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: tel:+15195214260, Text: HOW DOES HE DO IT?
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Weekly Google Ads Management
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Web Development
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Digital Marketing
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Professional Network
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/application, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Executive Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Operating Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Financial Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Marketing Officer
+HREF: https://bretta.io/#, Text: $39.99/month
+HREF: https://bretta.io/#, Text: $14.99/month
+HREF: https://bretta.io/#, Text: $499
+HREF: https://bretta.io/#, Text: View All
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: https://bretta.io/terms-conditions, Text: Terms & Conditions
+HREF: https://bretta.io/privacy-policy, Text: Privacy Policy
+HREF: https://bretta.io/faq, Text: FAQs
+HREF: https://bretta.io/blog, Text: Blog
+HREF: tel:+(617) 254-2333, Text: +1 (519) 521-4260
+HREF: https://bretta.io/, Text: Bretta
+HREF: tel:+15195214260, Text: Need help? Call us!
+        ---- Accessibility Violations ----
+        Total Violations: 9
+        
+          Description: Ensure buttons have discernible text
+          Impact: critical
+          Nodes: 2
+          Elements: - HTML: <button type="button" class="testimonial-button-prev static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+- HTML: <button type="button" class="testimonial-button-next static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+        
+
+          Description: Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds
+          Impact: serious
+          Nodes: 22
+          Elements: - HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+- HTML: <button type="button" class="btn bg-gray px-12 capitalize text-white">Send Message</button>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/">Home</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/landing-page-experiences">Landing Page Experiences</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/google-ads-management">Google Ads Management</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/about-us">Who Is Bretta Etc?</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/terms-conditions">Terms &amp; Conditions</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/privacy-policy">Privacy Policy</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/faq">FAQs</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/blog">Blog</a>
+- HTML: <li>London, Ontario, Canada</li>
+- HTML: <li>Brisbane, Queensland, Australia</li>
+- HTML: <a href="tel:+(617) 254-2333" class="inline-block transition hover:scale-110 hover:text-secondary">+1 (519) 521-4260</a>
+        
+
+          Description: Ensure the order of headings is semantically correct
+          Impact: moderate
+          Nodes: 10
+          Elements: - HTML: <h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6>
+- HTML: <h6>Here are some animations to show my experience</h6>
+- HTML: <h6>A little more goodness to get you over the line</h6>
+- HTML: <h6>Not all websites are created equally</h6>
+- HTML: <h6 class="mb-1 text-black ">Application Landing page</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Executive Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Operating Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Financial Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Marketing Officer</h6>
+- HTML: <h6>Testimonial</h6>
+        
+
+          Description: Ensure every HTML document has a lang attribute
+          Impact: serious
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure every form element has a label
+          Impact: critical
+          Nodes: 5
+          Elements: - HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+        
+
+          Description: Ensure the document has a main landmark
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure links have discernible text
+          Impact: serious
+          Nodes: 10
+          Elements: - HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/application"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+        
+
+          Description: Ensure that the page, or at least one of its frames contains a level-one heading
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure all page content is contained by landmarks
+          Impact: moderate
+          Nodes: 72
+          Elements: - HTML: <div class="overflow-hidden bg-black pt-[82px] sm:-mx-[250px] sm:rounded-b-[50%] lg:-mx-[150px] lg:pt-[106px]">
+- HTML: <div class="heading text-center"><h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6><h4>Here's a basic breakdown</h4></div>
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="https://buy.stripe.com/fZe5ln224amc0WQ7sy">Weekly Google Ads Management</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Web Development</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Digital Marketing</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Professional Network</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <div class="heading text-center"><h6>Here are some animations to show my experience</h6><h4>A few psuedo made up statistical breakdowns</h4></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>7+</span></h4><span class="font-bold text-black transition ">Years In The Game</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>100+</span></h4><span class="font-bold text-black transition dark:text-gray ">Accounts Managed</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>1,800+</span> </h4><span class="font-bold text-black transition dark:text-gray ">Ad Campaigns Launched</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>Only 10 </span></h4><span class="font-bold text-black transition ">Clients At A Time</span></div>
+- HTML: <div class="heading mb-16 text-center lg:text-left"><h6>A little more goodness to get you over the line</h6><h4 class="leading-normal !text-white lg:!leading-[50px]">We bring solutions to make life easier for our customers.</h4></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">Thinking Informs Action</h4><p class="font-semibold">Continual feedback &amp; analyses allow me to effectively &amp; efficiently realign our approach to be ready to succeed at a moments notice.</p></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">24/7 Personal Support</h4><p class="font-semibold">I'm here, ready, when you're not. Quick, attentive &amp; responsive, just like your website should be. Only one call away as your digital marketing manager and educator.</p></div>
+- HTML: <div class="top-1/2 right-5 mx-auto mt-10 md:w-[45%] lg:mt-0 xl:absolute xl:-translate-y-1/2">
+- HTML: <div class="container">
+- HTML: <section class="bg-[url(/assets/images/team-bg.png)] bg-cover bg-center bg-no-repeat py-14  lg:py-[100px]">
+- HTML: <div class="heading text-center"><h6>Pricing Plan</h6><h4>Choose Affordable Prices</h4></div>
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black ">Intro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="relative mb-8"><h3 class="text-[22px] font-black text-black ">Base</h3><div class="group-hover:white/10 absolute top-1/2 right-0 -translate-y-1/2 rounded-xl bg-secondary/10 py-2 px-4 text-xs font-black text-secondary group-hover:bg-white group-hover:text-black">MOST POPULAR</div></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black group-hover:text-white ">Pro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="heading text-center ltr:lg:text-left rtl:lg:text-right "><h6>Testimonial</h6><h4 class="!text-white">Feedback from our clients</h4></div>
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <a class="text-sm font-extrabold text-white transition hover:text-secondary dark:hover:text-secondary" href="/#">View All</a>
+- HTML: <div class="heading text-center lg:mb-0 lg:w-1/3 lg:pr-10 lg:text-left">
+- HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+        
+        ===============================
+      
+        ===============================
+        Device: Desktop 1366x768
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+        Viewport: 1366x768
+        Load Time: 917ms
+        Screenshot: screenshot_Desktop_1366x768_2024-11-07_13-42-36.png
+        ---- SEO Metadata ----
+        Title: Bretta Etc Ltd. Google Ad Management & Licensed Templates
+        Description: 
+        Keywords: 
+        H1 Tag: 
+        H2 Tags: Bretta Gets Results Online
+        H3 Tags: Intro, Base, Pro
+        Images: SRC: https://bretta.io/assets/images/mugshot.svg, ALT: bretta etc ltd logo
+SRC: https://bretta.io/assets/images/mugshot.svg, ALT: home-banner-icon
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbox-img.png&w=1080&q=75, ALT: box-img
+SRC: https://bretta.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapplication-example.62c42e24.png&w=640&q=75, ALT: project-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-2.png&w=640&q=75, ALT: project-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-3.png&w=640&q=75, ALT: project-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-4.png&w=640&q=75, ALT: project-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-5.png&w=640&q=75, ALT: project-5
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fproject-6.png&w=640&q=75, ALT: project-6
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-1
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-2
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-3
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fbrettacuz.png&w=3840&q=75, ALT: team-member-4
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&w=96&q=75, ALT: blue-quote
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Ftestimonial.png&w=640&q=75, ALT: testimonial
+SRC: https://bretta.io/_next/image?url=%2Fassets%2Fimages%2Fform-img.png&w=1080&q=75, ALT: form-image
+SRC: https://bretta.io/_next/static/media/mugshot.ddfd0547.svg, ALT: bretta etc logo in the bottom footer
+        Links: HREF: https://bretta.io/, Text: 
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: tel:+15195214260, Text: HOW DOES HE DO IT?
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Weekly Google Ads Management
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Web Development
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Digital Marketing
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/services-detail, Text: Professional Network
+HREF: https://bretta.io/services-detail, Text: 
+HREF: https://bretta.io/application, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://bretta.io/portfolio-detail, Text: 
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Executive Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Operating Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Financial Officer
+HREF: https://buy.stripe.com/fZe5ln224amc0WQ7sy, Text: Bretta
+Chief Marketing Officer
+HREF: https://bretta.io/#, Text: $39.99/month
+HREF: https://bretta.io/#, Text: $14.99/month
+HREF: https://bretta.io/#, Text: $499
+HREF: https://bretta.io/#, Text: View All
+HREF: https://bretta.io/, Text: Home
+HREF: https://bretta.io/landing-page-experiences, Text: Landing Page Experiences
+HREF: https://bretta.io/google-ads-management, Text: Google Ads Management
+HREF: https://bretta.io/about-us, Text: Who Is Bretta Etc?
+HREF: https://bretta.io/terms-conditions, Text: Terms & Conditions
+HREF: https://bretta.io/privacy-policy, Text: Privacy Policy
+HREF: https://bretta.io/faq, Text: FAQs
+HREF: https://bretta.io/blog, Text: Blog
+HREF: tel:+(617) 254-2333, Text: +1 (519) 521-4260
+HREF: https://bretta.io/, Text: Bretta
+HREF: tel:+15195214260, Text: Need help? Call us!
+        ---- Accessibility Violations ----
+        Total Violations: 9
+        
+          Description: Ensure buttons have discernible text
+          Impact: critical
+          Nodes: 2
+          Elements: - HTML: <button type="button" class="testimonial-button-prev static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+- HTML: <button type="button" class="testimonial-button-next static mt-0 flex h-10 w-10 items-center justify-center rounded-full bg-white/5 transition after:hidden after:text-[0px] hover:bg-secondary rtl:rotate-180">
+        
+
+          Description: Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds
+          Impact: serious
+          Nodes: 22
+          Elements: - HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+- HTML: <button type="button" class="btn bg-gray px-12 capitalize text-white">Send Message</button>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/">Home</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/landing-page-experiences">Landing Page Experiences</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/google-ads-management">Google Ads Management</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/about-us">Who Is Bretta Etc?</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/terms-conditions">Terms &amp; Conditions</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/privacy-policy">Privacy Policy</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/faq">FAQs</a>
+- HTML: <a class="inline-block transition hover:scale-110 hover:text-secondary" href="/blog">Blog</a>
+- HTML: <li>London, Ontario, Canada</li>
+- HTML: <li>Brisbane, Queensland, Australia</li>
+- HTML: <a href="tel:+(617) 254-2333" class="inline-block transition hover:scale-110 hover:text-secondary">+1 (519) 521-4260</a>
+        
+
+          Description: Ensure the order of headings is semantically correct
+          Impact: moderate
+          Nodes: 10
+          Elements: - HTML: <h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6>
+- HTML: <h6>Here are some animations to show my experience</h6>
+- HTML: <h6>A little more goodness to get you over the line</h6>
+- HTML: <h6>Not all websites are created equally</h6>
+- HTML: <h6 class="mb-1 text-black ">Application Landing page</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Executive Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Operating Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Financial Officer</h6>
+- HTML: <h6 class="text-sm font-bold">Chief Marketing Officer</h6>
+- HTML: <h6>Testimonial</h6>
+        
+
+          Description: Ensure every HTML document has a lang attribute
+          Impact: serious
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure every form element has a label
+          Impact: critical
+          Nodes: 5
+          Elements: - HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+        
+
+          Description: Ensure the document has a main landmark
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure links have discernible text
+          Impact: serious
+          Nodes: 10
+          Elements: - HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black" href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="flex h-11 w-11 items-center justify-center rounded-full bg-[#F3F4F6] transition group-hover:bg-black " href="/services-detail">
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/application"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+- HTML: <a class="absolute top-0 left-0 h-full w-full" href="/portfolio-detail"></a>
+        
+
+          Description: Ensure that the page, or at least one of its frames contains a level-one heading
+          Impact: moderate
+          Nodes: 1
+          Elements: - HTML: <html dir="ltr">
+        
+
+          Description: Ensure all page content is contained by landmarks
+          Impact: moderate
+          Nodes: 72
+          Elements: - HTML: <div class="overflow-hidden bg-black pt-[82px] sm:-mx-[250px] sm:rounded-b-[50%] lg:-mx-[150px] lg:pt-[106px]">
+- HTML: <div class="heading text-center"><h6>Can I Tell You How Bretta Brings The Holistic Approach To The Game?</h6><h4>Here's a basic breakdown</h4></div>
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="https://buy.stripe.com/fZe5ln224amc0WQ7sy">Weekly Google Ads Management</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Web Development</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Digital Marketing</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <a class="my-8 inline-block text-[22px] font-extrabold text-black " href="/services-detail">Professional Network</a>
+- HTML: <p class="line-clamp-7 mb-10 text-lg font-semibold transition ">
+- HTML: <div class="heading text-center"><h6>Here are some animations to show my experience</h6><h4>A few psuedo made up statistical breakdowns</h4></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>7+</span></h4><span class="font-bold text-black transition ">Years In The Game</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>100+</span></h4><span class="font-bold text-black transition dark:text-gray ">Accounts Managed</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>1,800+</span> </h4><span class="font-bold text-black transition dark:text-gray ">Ad Campaigns Launched</span></div>
+- HTML: <div class="pl-4 "><h4 class="pb-2.5 text-4xl font-black leading-none transition  "><span>Only 10 </span></h4><span class="font-bold text-black transition ">Clients At A Time</span></div>
+- HTML: <div class="heading mb-16 text-center lg:text-left"><h6>A little more goodness to get you over the line</h6><h4 class="leading-normal !text-white lg:!leading-[50px]">We bring solutions to make life easier for our customers.</h4></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">Thinking Informs Action</h4><p class="font-semibold">Continual feedback &amp; analyses allow me to effectively &amp; efficiently realign our approach to be ready to succeed at a moments notice.</p></div>
+- HTML: <div class="pl-3">
+- HTML: <div class="pl-3"><h4 class="mb-2 text-lg font-bold text-white">24/7 Personal Support</h4><p class="font-semibold">I'm here, ready, when you're not. Quick, attentive &amp; responsive, just like your website should be. Only one call away as your digital marketing manager and educator.</p></div>
+- HTML: <div class="top-1/2 right-5 mx-auto mt-10 md:w-[45%] lg:mt-0 xl:absolute xl:-translate-y-1/2">
+- HTML: <div class="container">
+- HTML: <section class="bg-[url(/assets/images/team-bg.png)] bg-cover bg-center bg-no-repeat py-14  lg:py-[100px]">
+- HTML: <div class="heading text-center"><h6>Pricing Plan</h6><h4>Choose Affordable Prices</h4></div>
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black ">Intro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="relative mb-8"><h3 class="text-[22px] font-black text-black ">Base</h3><div class="group-hover:white/10 absolute top-1/2 right-0 -translate-y-1/2 rounded-xl bg-secondary/10 py-2 px-4 text-xs font-black text-secondary group-hover:bg-white group-hover:text-black">MOST POPULAR</div></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="mb-8"><h3 class="text-[22px] font-black text-black group-hover:text-white ">Pro</h3></div>
+- HTML: <p class="pl-3">Daily content updates</p>
+- HTML: <p class="pl-3">Unlimited downloads of FREE resources</p>
+- HTML: <p class="pl-3">Unlimited PREMIUM downloads</p>
+- HTML: <p class="pl-3">Valid commercial licenses</p>
+- HTML: <p class="pl-3">Advanced Search</p>
+- HTML: <p class="pl-3">No attribution required</p>
+- HTML: <p class="pl-3">Browse with no ads</p>
+- HTML: <div class="mt-auto border-t-2 border-[#BBC0D0]/50 pt-7">
+- HTML: <div class="heading text-center ltr:lg:text-left rtl:lg:text-right "><h6>Testimonial</h6><h4 class="!text-white">Feedback from our clients</h4></div>
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <img alt="blue-quote" loading="lazy" width="48" height="48" decoding="async" data-nimg="1" class="absolute top-0 ltr:right-0 rtl:left-0 sm:-top-6 ltr:sm:-right-6 rtl:sm:-left-6" srcset="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75 2x" src="/_next/image?url=%2Fassets%2Fimages%2Fblue-quote.png&amp;w=96&amp;q=75" style="color: transparent;">
+- HTML: <p class="relative font-medium italic text-white">
+- HTML: <div class="mt-12"><h5 class="font-extrabold text-primary">Allan Branch</h5><h6 class="text-sm font-bold italic">CEO of Lifted</h6></div>
+- HTML: <div class="mx-auto mt-4 h-20 w-20 max-w-[255px] overflow-hidden rounded-full bg-white ltr:ml-auto rtl:mr-auto dark:bg-gray-dark sm:mt-0 sm:h-auto sm:w-auto sm:rounded-[150px] ltr:sm:mr-0 rtl:sm:ml-0">
+- HTML: <a class="text-sm font-extrabold text-white transition hover:text-secondary dark:hover:text-secondary" href="/#">View All</a>
+- HTML: <div class="heading text-center lg:mb-0 lg:w-1/3 lg:pr-10 lg:text-left">
+- HTML: <input type="text" name="name" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Full Name</label>
+- HTML: <input type="email" name="email" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Email Address</label>
+- HTML: <input type="text" name="mobile" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary ">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">Mobile Number</label>
+- HTML: <input type="text" name="city" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold ">City</label>
+- HTML: <input type="text" name="message" class="w-full rounded-2xl border-2 border-gray/20 bg-transparent p-4 pr-12 font-bold outline-none transition focus:border-secondary">
+- HTML: <label for="" class="absolute -top-3 left-6 bg-white px-2 font-bold">Message</label>
+        
+        ===============================
+      
